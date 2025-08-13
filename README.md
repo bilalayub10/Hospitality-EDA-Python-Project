@@ -65,6 +65,8 @@ To solve the problem, I followed a structured data analytics workflow in Python:
 3. **Data Transformation** – Merged datasets, created calculated fields, and reformatted data for insights generation.  
 4. **Insights Generation** – Analyzed the transformed data to identify trends, patterns, and actionable recommendations.
 
+View the full analysis in the Jupyter Notebook: [Exploratory Data Analysis in the Hospitality Domain using Python.ipynb](https://github.com/bilalayub10/Hospitality-EDA-Python-Project/blob/main/Jupyter%20Notebook/Exploratory%20Data%20Analysis%20in%20the%20Hospitality%20Domain%20using%20Python.ipynb)
+
 ## Key Insights
 
 - **Occupancy Leaders:** Presidential rooms topped with 59.28% average occupancy; Delhi led cities at 61.51%.  
