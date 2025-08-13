@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (EDA) in Hospitality Domain
+# Exploratory Data Analysis (EDA) in the Hospitality Domain
 
 ## Table of Contents
 
