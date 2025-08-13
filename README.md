@@ -31,7 +31,7 @@ The project leverages Python's **data manipulation** and **visualization librari
 - Derive metrics  
 - Generate visualizations
 
-View the full analysis in the Jupyter Notebook: Exploratory Data Analysis in the Hospitality Domain using Python.ipynb.
+View the full analysis in the Jupyter Notebook: [Exploratory Data Analysis in the Hospitality Domain using Python.ipynb](https://github.com/bilalayub10/Hospitality-EDA-Python-Project/blob/main/Jupyter%20Notebook/Exploratory%20Data%20Analysis%20in%20the%20Hospitality%20Domain%20using%20Python.ipynb)
 
 ## Problem Statement
 
